@@ -11,17 +11,12 @@
 
 - 💻 &nbsp;
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
