@@ -6,7 +6,6 @@
 
 - 💼 &nbsp; Working as an iOS Developer.
 - 🌱 &nbsp; Learning more about: Combine.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
