@@ -36,7 +36,7 @@
 <br/>
 
 <a href="https://github.com/esraaeiid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esraaeiid&theme=buefy&show_icons=true" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=esraaeiid&theme=outrun&hide_border=true&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
 </a>
 
 <br/>
