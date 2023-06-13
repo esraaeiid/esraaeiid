@@ -35,9 +35,9 @@
 
 <br/>
 
-<a href="https://github.com/esraaeiid">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=esraaeiid&theme=outrun&hide_border=true&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
-</a>
+
 
 <br/>
 
