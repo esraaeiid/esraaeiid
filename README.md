@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Working as an iOS Developer.
-- 🌱 &nbsp; Currently Learning: Combine.
+- 🌱 &nbsp; Currently Learning: SwiftUI.
 - ☀️ &nbsp; I also love reading and playing squash
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
