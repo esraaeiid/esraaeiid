@@ -18,14 +18,3 @@
   ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
 - 🔧 &nbsp;
   ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC)
-
-<br/>
-
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=esraaeiid&theme=outrun&hide_border=true&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
-
-
-<br/>
-
-
-
